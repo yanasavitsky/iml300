@@ -82,7 +82,7 @@ a:hover {
 .text-3 {
   position: fixed;
   top: 15%;
-  left: 35%;
+  left: 40%;
 
   color: white;
   font-size: 25px;
@@ -168,8 +168,8 @@ a:hover {
 
 .text-5b {
   position: fixed;
-  top: 35%;
-  left: 50%;
+  top: 40%;
+  left: 30%;
 
   color: white;
   font-size: 40px;
@@ -460,11 +460,11 @@ a:hover {
 
 .text-14 {
   position: fixed;
-  top: 80%;
-  left: 25%;
+  top: 50%;
+  left: 30%;
 
   color: white;
-  font-size: 45px;
+  font-size: 40px;
   font-family: "Amatic SC", cursive;
   line-height: 1.5em;
   font-weight: bold;
