@@ -1,0 +1,488 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blanchedalmond;
+}
+
+/*------page-1------*/
+.pg-1 {
+  background-image: url("asset/rainOnGround.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.heading {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+
+  color: whitesmoke;
+  font-size: 75px;
+  font-family: "Beth Ellen", cursive;
+}
+
+.start {
+  position: fixed;
+  top: 63%;
+  left: 93%;
+
+  font-size: 25px;
+  font-family: "Amatic SC", cursive;
+}
+
+.audio {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+/*------page-2------*/
+.pg-2 {
+  background-image: url("asset/house.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-2 {
+  position: fixed;
+  top: 50%;
+  left: 30%;
+
+  color: white;
+  font-size: 25px;
+  font-family: "Amatic SC", cursive;
+  line-height: 2.5em;
+}
+
+.audio-2 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+/*------page-3------*/
+.pg-3 {
+  background-image: url("asset/treeSky.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-3 {
+  position: fixed;
+  top: 15%;
+  left: 35%;
+
+  color: white;
+  font-size: 25px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+}
+
+.audio-3 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+/*------page-4------*/
+.pg-4 {
+  background-image: url("asset/skyBlue.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-4 {
+  position: fixed;
+  top: 4%;
+  left: 4%;
+
+  color: white;
+  font-size: 30px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1em;
+  font-weight: bold;
+}
+
+.text-4b {
+  position: fixed;
+  top: 60%;
+  left: 70%;
+
+  color: white;
+  font-size: 30px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1em;
+  font-weight: bold;
+}
+
+.audio-4 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+/*------page-5------*/
+.pg-5 {
+  background-image: url("asset/babyYanaHair.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-5 {
+  position: fixed;
+  top: 40%;
+  left: 60%;
+
+  color: white;
+  font-size: 40px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1em;
+}
+
+.pg-5b {
+  background-image: url("asset/babyYanaHairGrandpa.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-5b {
+  position: fixed;
+  top: 35%;
+  left: 50%;
+
+  color: white;
+  font-size: 40px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+}
+
+/*------page-6------*/
+.pg-6 {
+  background-image: url("asset/blueEyes.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-6 {
+  position: fixed;
+  top: 20%;
+  left: 80%;
+
+  color: white;
+  font-size: 40px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1em;
+}
+
+.pg-6b {
+  background-image: url("asset/blueEyesGrandpa.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-6b {
+  position: fixed;
+  top: 10%;
+  left: 40%;
+
+  color: white;
+  font-size: 40px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+}
+
+/*------page-7------*/
+.pg-7 {
+  background-image: url("asset/pinkHat3.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-7 {
+  position: fixed;
+  top: 50%;
+  left: 70%;
+
+  color: white;
+  font-size: 40px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1em;
+  font-weight: bold;
+}
+
+.pg-7b {
+  background-image: url("asset/pinkHatGrandpa.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-7b {
+  position: fixed;
+  top: 8%;
+  left: 50%;
+
+  color: white;
+  font-size: 40px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+  font-weight: bold;
+}
+
+/*------page-8------*/
+.pg-8 {
+  background-image: url("asset/breeze.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-8 {
+  position: fixed;
+  top: 4%;
+  left: 4%;
+
+  color: white;
+  font-size: 22px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+}
+
+.text-8b {
+  position: fixed;
+  top: 85%;
+  left: 70%;
+
+  color: white;
+  font-size: 28px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1em;
+  font-weight: bold;
+}
+
+.audio-8 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+/*------page-9------*/
+.pg-9 {
+  background-image: url("asset/forestWalk.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-9 {
+  position: fixed;
+  top: 92%;
+  left: 5%;
+
+  color: white;
+  font-size: 22px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+}
+
+.audio-9 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+.image-9 {
+  position: fixed;
+  top: 90%;
+  left: 67%;
+}
+
+/*------page-10------*/
+.pg-10 {
+  background-image: url("asset/snowTrees.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-10 {
+  position: fixed;
+  top: 15%;
+  left: 60%;
+
+  color: white;
+  font-size: 28px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+  font-weight: bold;
+}
+
+.audio-10 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+.image-10 {
+  position: fixed;
+  top: 70%;
+  left: 50%;
+}
+
+/*------page-11------*/
+.pg-11 {
+  background-image: url("asset/lake.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-11 {
+  position: fixed;
+  top: 53%;
+  left: 50%;
+
+  color: white;
+  font-size: 30px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+  font-weight: bold;
+}
+
+.audio-11 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+.image-11 {
+  position: fixed;
+  top: 85%;
+  left: 20%;
+}
+
+/*------page-12------*/
+.pg-12 {
+  background-image: url("asset/haulGrandpa.png");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-12 {
+  position: fixed;
+  top: 92%;
+  left: 60%;
+
+  color: white;
+  font-size: 32px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+  font-weight: bold;
+}
+
+/*------page-13------*/
+.pg-13 {
+  background-image: url("asset/breeze2.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+.text-13 {
+  position: fixed;
+  top: 70%;
+  left: 70%;
+
+  color: white;
+  font-size: 22px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+}
+.audio-13 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+
+/*------page-14------*/
+.pg-14 {
+  background-image: url("asset/flowerGrave.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.text-14 {
+  position: fixed;
+  top: 80%;
+  left: 25%;
+
+  color: white;
+  font-size: 45px;
+  font-family: "Amatic SC", cursive;
+  line-height: 1.5em;
+  font-weight: bold;
+}
+
+.text-14b {
+  position: fixed;
+  top: 92%;
+  left: 80%;
+
+  color: white;
+  font-size: 12px;
+  font-family: "Beth Ellen", cursive;
+  line-height: 1.5em;
+}
+.audio-14 {
+  position: fixed;
+  top: 2%;
+  left: 78%;
+}
+/*------done-----*/

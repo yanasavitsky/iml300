@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../HyperNarrative-example"
+	},
+	{
+		"path": "../css-advanced-demo"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HyperNarrative-example"
+  }
+}

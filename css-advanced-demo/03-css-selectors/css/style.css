@@ -1,0 +1,26 @@
+body {
+  font-family: "Arial", sans-serif;
+  /* border: 5px solid red; */
+}
+
+h1,
+h2 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+section p {
+  background-color: #ef560f;
+  color: pink;
+}
+
+.special-paragraph {
+  font-size: 30px;
+}
+
+#page-title {
+  font-size: 100px;
+}
