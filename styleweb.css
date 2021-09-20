@@ -1,0 +1,157 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f5b426;
+}
+
+.background {
+  background-image: url("assets/gradient.gif");
+  background-size: cover;
+
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.name {
+  position: fixed;
+  top: 65%;
+  left: 50%;
+
+  color: white;
+  font-size: 65px;
+  font-family: "Bungee Shade", cursive;
+}
+
+.description {
+  position: fixed;
+  top: 80%;
+  left: 51%;
+
+  color: white;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+}
+
+.presentation {
+  position: fixed;
+  top: 1%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Bungee", cursive;
+}
+
+.link1 {
+  position: fixed;
+  top: 9.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.projects {
+  position: fixed;
+  top: 10%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Bungee", cursive;
+}
+
+.proj1 {
+  position: fixed;
+  top: 16.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 15px;
+  font-family: "Bungee Outline", cursive;
+}
+
+.link2 {
+  position: fixed;
+  top: 22%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.proj2 {
+  position: fixed;
+  top: 26%;
+  left: 1%;
+
+  color: white;
+  font-size: 15px;
+  font-family: "Bungee Outline", cursive;
+}
+
+.link3 {
+  position: fixed;
+  top: 31.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.proj3 {
+  position: fixed;
+  top: 32.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 15px;
+  font-family: "Bungee Outline", cursive;
+}
+
+.link4 {
+  position: fixed;
+  top: 38%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.exercises {
+  position: fixed;
+  top: 39%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Bungee", cursive;
+}
+
+.list {
+  position: fixed;
+  top: 45.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.thoughts {
+  position: fixed;
+  top: 54%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Bungee", cursive;
+}
