@@ -138,7 +138,7 @@ a:hover {
 
 .exercises {
   position: fixed;
-  top: 50%;
+  top: 53%;
   left: 1%;
 
   color: white;
@@ -148,7 +148,7 @@ a:hover {
 
 .list {
   position: fixed;
-  top: 55%;
+  top: 60%;
   left: 1%;
 
   color: white;
@@ -158,10 +158,38 @@ a:hover {
 
 .thoughts {
   position: fixed;
-  top: 60%;
+  top: 42%;
   left: 1%;
 
   color: white;
   font-size: 20px;
   font-family: "Bungee", cursive;
+}
+
+.readings {
+  position: fixed;
+  top: 50.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+iframe {
+  width: 100px;
+  height: 100px;
+}
+
+.grid-container {
+  position: fixed;
+  top: 63%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+
+  display: grid;
+  grid-template-columns: auto auto auto auto;
 }
