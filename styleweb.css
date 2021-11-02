@@ -96,6 +96,16 @@ a:hover {
   font-family: "Bungee Outline", cursive;
 }
 
+.description {
+  position: fixed;
+  top: 9.5%;
+  left: 1%;
+
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
 .link3 {
   position: fixed;
   top: 31.5%;
