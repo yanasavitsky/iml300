@@ -98,7 +98,7 @@ a:hover {
 
 .description-2 {
   position: fixed;
-  top: 9.5%;
+  top: 31.5%;
   left: 1%;
 
   color: white;
@@ -108,7 +108,7 @@ a:hover {
 
 .link3 {
   position: fixed;
-  top: 31.5%;
+  top: 40%;
   left: 1%;
 
   color: white;
@@ -118,7 +118,7 @@ a:hover {
 
 .proj3 {
   position: fixed;
-  top: 32.5%;
+  top: 45%;
   left: 1%;
 
   color: white;
@@ -128,7 +128,7 @@ a:hover {
 
 .link4 {
   position: fixed;
-  top: 38%;
+  top: 48%;
   left: 1%;
 
   color: white;
@@ -138,7 +138,7 @@ a:hover {
 
 .exercises {
   position: fixed;
-  top: 39%;
+  top: 50%;
   left: 1%;
 
   color: white;
@@ -148,7 +148,7 @@ a:hover {
 
 .list {
   position: fixed;
-  top: 45.5%;
+  top: 55%;
   left: 1%;
 
   color: white;
@@ -158,7 +158,7 @@ a:hover {
 
 .thoughts {
   position: fixed;
-  top: 54%;
+  top: 60%;
   left: 1%;
 
   color: white;
