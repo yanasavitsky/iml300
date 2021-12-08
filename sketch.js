@@ -20,11 +20,11 @@ function draw() {
   const topColor = color(topR, topG, topB);
   const bottomColor = color(bottomR, bottomG, bottomB);
 
-  for (let y = 0; y < height; y++) {
-    const lineColor = lerpColor(topColor, bottomColor, y / height);
+  for (let y = 0; y < windowHeight; y++) {
+    const lineColor = lerpColor(topColor, bottomColor, y / windowHeight);
 
     stroke(lineColor);
-    line(0, y, width, y);
+    line(0, y, windowWidthh, y);
   }
 }
 
